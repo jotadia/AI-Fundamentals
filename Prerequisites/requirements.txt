@@ -28,4 +28,7 @@ setuptools
 pytest
 black
 pylint
-black
+jupyterthemes
+calmap
+#pandas-profiling
+ydata-profiling

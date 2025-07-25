@@ -33,12 +33,22 @@ Before starting this course, please make sure you meet the following requirement
     python -m venv ai-course-env
     .\ai-course-env\Scripts\activate
     ```
+    
+    Please **<u>ctrl + click</u>** on the image below to watch the video on setting up the virtual environment for Python in Windows 11. 
+    
+    [AI Fundamentals Bootcamp - Instalación de prerrequisitos de python para Windows 11.](https://youtu.be/fOqisr0Sazk?si=IJ1rnnu4iEKHpvNU)
 
-  - Example for Linux/Mac:
+    <a href="https://youtu.be/fOqisr0Sazk" target="_blank" rel="noopener noreferrer">
+      <img src="https://i.imgur.com/GcRenJg.png" alt="AI Fundamentals Bootcamp - Instalación de prerrequisitos de python para Windows 11." width="400"/>
+    </a>
+
+  - Example for Linux/Mac/Codespaces:
     ```bash
     python3 -m venv ai-course-env
     source ai-course-env/bin/activate
     ```
+
+
 
 ### 5. Directory Structure (Best Practices)
 - Use this recommended structure for your projects:
